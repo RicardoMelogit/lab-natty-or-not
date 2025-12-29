@@ -1,4 +1,4 @@
-# IA Generativa como Analista de Dados Júnior
+# IA Generativa aplicada à Análise de Dados (Simulação de Analista Júnior)
 
 ## 📌 Descrição
 Este projeto foi desenvolvido como parte do desafio **Natural ou Fake Natty?**
@@ -9,6 +9,7 @@ dados estruturados fictícios.
 ---
 
 ## 🤖 Tecnologias Utilizadas
+- IA Generativa aplicada à análise exploratória de dados
 - ChatGPT (IA Generativa)
 - GitHub
 - Arquivos CSV (dados estruturados)
@@ -50,8 +51,8 @@ lab-natty-or-not
 ---
 
 ## 💭 Reflexão
-Este projeto evidencia o potencial das IAs Generativas como ferramentas de
-apoio ao trabalho humano, acelerando análises, melhorando a comunicação de
-dados e auxiliando profissionais de dados na geração de insights estratégicos.
+Este projeto reforça como a IA Generativa pode ser utilizada como
+ferramenta complementar ao analista, potencializando produtividade
+sem substituir o raciocínio humano.
 
 
