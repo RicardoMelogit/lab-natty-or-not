@@ -1,0 +1,7 @@
+data,produto,categoria,vendas,receita
+2024-01-01,Produto A,Eletrônicos,120,24000
+2024-01-02,Produto B,Eletrônicos,90,18000
+2024-01-03,Produto C,Serviços,150,30000
+2024-02-01,Produto A,Eletrônicos,200,40000
+2024-02-02,Produto B,Eletrônicos,110,22000
+2024-02-03,Produto C,Serviços,180,36000
