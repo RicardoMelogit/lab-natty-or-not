@@ -1,51 +1,57 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+# IA Generativa como Analista de Dados Júnior
 
-## 🚀 Introdução
+## 📌 Descrição
+Este projeto foi desenvolvido como parte do desafio **Natural ou Fake Natty?**
+da DIO e tem como objetivo simular a atuação de uma **IA Generativa como um
+Analista de Dados Júnior**, realizando análises e gerando insights a partir de
+dados estruturados fictícios.
 
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
-
-## 📒 Descrição
-Breve descrição do seu projeto
+---
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- ChatGPT (IA Generativa)
+- GitHub
+- Arquivos CSV (dados estruturados)
+- Markdown para documentação
 
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+---
 
-## 🚀 Resultados
-Apresente os resultados do seu projeto
+## 🧠 Processo de Criação
+1. Criação de um dataset fictício de vendas em formato CSV
+2. Definição de perguntas de negócio relevantes
+3. Elaboração de prompts para orientar a IA na análise dos dados
+4. Geração de insights, tendências e recomendações utilizando IA Generativa
+5. Documentação completa do projeto no GitHub
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+---
 
-### Exemplos e Insigths
+## 📊 Resultados
+A IA foi capaz de:
+- Identificar produtos com maior desempenho em vendas e receita
+- Detectar crescimento mês a mês nas vendas
+- Apontar a categoria com maior impacto financeiro
+- Sugerir ações estratégicas para aumento de receita
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+Os resultados demonstram como a IA pode apoiar analistas de dados
+na interpretação de informações e tomada de decisão.
 
-## Links Interessantes
+---
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
+## 📁 Estrutura do Repositório
 
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+lab-natty-or-not
+├── README.md
+├── dataset_vendas.csv
+├── perguntas_de_negocio.md
+├── prompts_utilizados.md
+└── analise_gerada_pela_ia.md
+
+
+---
+
+## 💭 Reflexão
+Este projeto evidencia o potencial das IAs Generativas como ferramentas de
+apoio ao trabalho humano, acelerando análises, melhorando a comunicação de
+dados e auxiliando profissionais de dados na geração de insights estratégicos.
+
+
